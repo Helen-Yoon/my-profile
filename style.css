@@ -1,0 +1,45 @@
+h1, h2 {
+	color: #940a37;
+	font-family: times new roman;
+	font-weight: bold;
+}
+h2 {
+	text-align: left
+	font-size: 30px;
+}
+div {
+	background: #fdeced;
+	padding: 60px;
+	margin: 50px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+}
+.container {
+	width: 700px
+	margin: 40px auto;
+}
+.card-white {
+	padding: 30px;
+	border: 1px solid lightgrey;
+}
+.list-inline {
+	list-style: none;
+}
+ul {
+	text-align: left;
+}
+p {
+	text-align: left;
+	width: 50px;
+}
+body {
+	text-align: center;
+	font-family: calibri, monospace;
+	font-size: 20px;
+	font-weight: normal;
+	line-height: 1.5;
+	letter-spacing: 1px;
+}
+img {
+	border-radius: 90%;
+}
